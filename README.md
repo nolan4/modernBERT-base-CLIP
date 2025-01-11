@@ -1,6 +1,4 @@
 
-# Model Card for Model ID
-
 Fine tune HF's modernBERT-base as a text encoder for Contrastive Language-Image Pretraining (CLIP)!<br>
 Use natural language to search for images.<br>
 
