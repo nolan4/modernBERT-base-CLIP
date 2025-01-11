@@ -2,7 +2,7 @@
 Fine tune HF's modernBERT-base as a text encoder for Contrastive Language-Image Pretraining (CLIP)!<br>
 Use natural language to search for images.<br>
 
-# How to Get Started with the Model
+# How to Get Started
 
 To use a pretrained model to search through a directory of images, go to demo.py. For training, see train.py.<br>
 
