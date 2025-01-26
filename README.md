@@ -17,7 +17,7 @@ https://huggingface.co/blog/smolvlm<br>
 ModernBERT-base-CLIP is a multimodal model for Contrastive Language-Image Pretraining (CLIP), designed to align text and image representations in a shared embedding space. 
 It leverages a fine-tuned ModernBERT-base text encoder and a frozen vision encoder (extracted from SmolVLM) to generate embeddings, which are projected into a 512-dimensional space using
 linear layers. The model enables natural language-based image retrieval and zero-shot classification by optimizing a contrastive loss, which maximizes the similarity between matching text-image pairs while minimizing the similarity for non-matching pairs. 
-Training was conducted on the Flickr30k dataset, with one-shot evaluation performed on COCO images (... or your own!) using the demo.py script,
+Training was conducted on the Flickr30k dataset, with one-shot evaluation performed on COCO images (... or your own!) using the demo.ipynb script.
 
 # Datasets
 
